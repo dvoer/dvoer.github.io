@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dvoer.github.io/TeZ/sitemap.TeZ.gz
